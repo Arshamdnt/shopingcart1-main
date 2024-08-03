@@ -1,0 +1,10 @@
+[
+    {"id" : 1, "Name" : "Nike Jordan", "price" : 55, "imgUrl" : "/images/NikeJordan.jpg"},
+    {"id" : 2, "Name" : "Air force", "price" : 89, "imgUrl" : "/images/Airforce1.jpg"},
+    {"id" : 3, "Name" : "Vans", "price" : 40, "imgUrl" : "/images/vans.jpg"},
+    {"id" : 4, "Name" : "Nike", "price" : 50, "imgUrl" : "/images/nike2.jpg"},
+    {"id" : 5, "Name" : "NewBalance 530", "price" : 110, "imgUrl" : "/images/NewBalance530.jpg"},
+    {"id" : 6, "Name" : "Nike", "price" : 77, "imgUrl" : "/images/nike3.jpg"},
+    {"id" : 7, "Name" : "Adidas", "price" : 60, "imgUrl" : "/images/adidas.jpg"}
+  ]
+  
